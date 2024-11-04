@@ -13,7 +13,7 @@ Route::get('/pdf', function () {
         'margin_right' => 0,
         'margin_bottom' => 0,
         'margin_left' => 0,
-        'format' => [212, 277],
+        'format' => [212, 271.39791667],
         'curlAllowUnsafeSslRequests' => true,
         'custom_font_dir' => base_path('resources/fonts/'),
         'custom_font_data' => [
